@@ -4,6 +4,7 @@ date: {{ date }}
 tags:  [ nodejs, commander]
 categories: 前端
 copyright: true
+author: Jerry Liu
 top:
 description: 我们采用 nodejs 和 commander 包创建一个递归生成文件和文件夹的脚手架。可以通过 create file 和 create dir 等命令就可以创建文件或者文件夹
 ---
